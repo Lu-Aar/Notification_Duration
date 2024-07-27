@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\Projects\NotificationDuration\NotificationDuration\main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-D:\Projects\NotificationDuration\NotificationDuration\main.cpp(8,75): warning C4312: 'type cast': conversion from 'ULONG' to 'void *' of greater size
-  NotificationDuration.vcxproj -> D:\Projects\NotificationDuration\x64\Debug\NotificationDuration.exe
